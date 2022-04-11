@@ -6,4 +6,7 @@ Ringo
 George
 Mick
 Keith
+Charlie
+Ronnie
+Brian
 
