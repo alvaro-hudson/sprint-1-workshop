@@ -24,3 +24,6 @@ Winston
 Xano
 Yammy
 Zorro
+Blando
+Flando
+Grammyo
